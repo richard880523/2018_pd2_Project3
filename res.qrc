@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+	<file>res/jet/PixPlane.png</file>
+	<file>res/bullet/OrangeBullet.svg</file>
+	<file>res/bullet/OrangeBullet1.png</file>
+	<file>res/monster/threeEyes.svg</file>
+	<file>res/monster/cartoon.png</file>
+	<file>res/monster/bigEar.svg</file>
+	<file>res/bomb/bombs.png</file>
+	<file>res/bomb/timerBomb3.png</file>
+	<file>res/universe/oldSchool.png</file>
+	<file>res/bullet/blueFireBall.png</file>
+    </qresource>	
+</RCC>
